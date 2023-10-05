@@ -14,3 +14,31 @@ this is the support server: https://discord.gg/dMUDv9tj2S
 # official bot
 
 this is the code of the Shelly bot, a bot made by me, add it from https://shelly.hallo178.repl.co
+
+# How to use
+
+## commands
+
+!terminal ls
+lists the directorys and files
+
+!mkdir
+creates a directory
+
+!rmdir
+removes a directory
+
+!touch
+creates a file
+
+!rm
+removes a file
+
+!apt
+installs a package
+
+!echo
+sends a message
+
+!start
+starts a program
