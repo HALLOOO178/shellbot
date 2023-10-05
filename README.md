@@ -42,3 +42,8 @@ sends a message
 
 !start
 starts a program
+
+### editing files
+for now editing files is impossible due to replit restrictions
+
+to edit a file just use replit but remember that the bot can run code
