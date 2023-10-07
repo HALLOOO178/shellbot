@@ -43,6 +43,9 @@ sends a message
 !start
 starts a program
 
+!terminal *a program installed with apt*
+runs a program installed via app
+
 ### editing files
 for now editing files is impossible due to replit restrictions
 
