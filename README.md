@@ -46,7 +46,6 @@ starts a program
 !terminal *a program installed with apt*
 runs a program installed via apt
 
-### editing files
-for now editing files is impossible due to replit restrictions
+!view lets u view a file
 
-to edit a file just use replit but remember that the bot can run code
+!edit lets u edit a file: structure: !edit file newContent
